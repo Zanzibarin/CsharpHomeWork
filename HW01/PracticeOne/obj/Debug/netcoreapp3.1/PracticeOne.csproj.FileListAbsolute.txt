@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.exe
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.deps.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.runtimeconfig.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\bin\Debug\netcoreapp3.1\PracticeOne.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\PracticeOne\PracticeOne\obj\Debug\netcoreapp3.1\PracticeOne.genruntimeconfig.cache
