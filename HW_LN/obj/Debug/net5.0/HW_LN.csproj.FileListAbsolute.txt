@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.exe
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.deps.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.runtimeconfig.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\ref\HW_LN.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\bin\Debug\net5.0\HW_LN.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\ref\HW_LN.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\Для гита\HW_LN\obj\Debug\net5.0\HW_LN.genruntimeconfig.cache
