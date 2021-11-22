@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.exe
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.deps.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.runtimeconfig.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\ref\HW_Rom.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\bin\Debug\net5.0\HW_Rom.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\ref\HW_Rom.dll
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.pdb
+C:\Users\Александр\Desktop\ИТМО\C#\code\Practice\HW_Rom\obj\Debug\net5.0\HW_Rom.genruntimeconfig.cache
