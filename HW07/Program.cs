@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace Ex7
+namespace CarNum
 {
     class Program
     {
